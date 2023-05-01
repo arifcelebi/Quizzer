@@ -1,5 +1,5 @@
 # Quizzer
 
-![Simulator Screen Shot - iPhone 11 - 2023-05-01 at 12 29 11](https://user-images.githubusercontent.com/61031852/235436321-f7e51aaa-24cd-4f3e-a2ae-defafb04d4a6.png)
-![Simulator Screen Shot - iPhone 11 - 2023-05-01 at 12 29 28](https://user-images.githubusercontent.com/61031852/235436324-0779dcab-77af-438f-a07f-fb3e97dd0c26.png)
-![Simulator Screen Shot - iPhone 11 - 2023-05-01 at 12 29 35](https://user-images.githubusercontent.com/61031852/235436325-0abd5e92-2b9a-4280-a6a8-343ae446cb08.png)
+<img width="394" alt="Screen Shot 2023-05-01 at 12 45 11" src="https://user-images.githubusercontent.com/61031852/235436840-2df169de-9741-4827-ac72-2e1918796dee.png">
+<img width="393" alt="Screen Shot 2023-05-01 at 12 45 46" src="https://user-images.githubusercontent.com/61031852/235436842-d964363c-e4ba-474b-a71f-f97c3d10c5b5.png">
+<img width="397" alt="Screen Shot 2023-05-01 at 12 46 09" src="https://user-images.githubusercontent.com/61031852/235436845-2ccbf14d-381e-4c56-90dd-e6ccf96a88a5.png">
